@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>naturalistic-api</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.scala-ide.sdt.core.scalabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.scala-ide.sdt.core.scalanature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/grammars/embedded/math/MathBaseListener.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/antlr/math-grammar/target/generated-sources/antlr4/grammars/embedded/math/MathBaseListener.java</locationURI>
+		</link>
+		<link>
+			<name>src/grammars/embedded/math/MathLexer.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/antlr/math-grammar/target/generated-sources/antlr4/grammars/embedded/math/MathLexer.java</locationURI>
+		</link>
+		<link>
+			<name>src/grammars/embedded/math/MathListener.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/antlr/math-grammar/target/generated-sources/antlr4/grammars/embedded/math/MathListener.java</locationURI>
+		</link>
+		<link>
+			<name>src/grammars/embedded/math/MathParser.java</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/antlr/math-grammar/target/generated-sources/antlr4/grammars/embedded/math/MathParser.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
